@@ -12,14 +12,14 @@ A survey was conducted to gauge an audience interest in different data science t
 6. Machine Learning
 
 The participants had three options for each topic: Very Interested, Somewhat interested, and Not interested. 2,233 respondents completed the survey.
-
+The survey results can be found here:-  https://cocl.us/datascience_survey_data
 The survey results have been saved in a csv file
 
 If you examine the csv file, you will find that the first column represents the data science topics and the first row represents the choices for each topic.
 
 
 
-
+San Francisco crime dataset can be found here:-  https://cocl.us/sanfran_crime_dataset
 Next is Based on the San Francisco crime dataset, you will find that San Francisco consists of 10 main neighborhoods, namely:
 
 1. Central
@@ -34,3 +34,4 @@ Next is Based on the San Francisco crime dataset, you will find that San Francis
 10. Tenderloin
 
 To display the neighborhoods with largest number of crimes and to depict the same on the choropleth map of San Francisco. 
+San Francisco GeoJSON file can be found here:-  https://cocl.us/sanfran_geojson.
